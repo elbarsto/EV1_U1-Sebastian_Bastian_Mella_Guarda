@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\usuario\\source\\repos\\registromercy_developers\\registromercy_developers\\registromercy_developers.csproj": {}
+    "C:\\Users\\usuario\\Desktop\\Web App\\registromercy_developers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\usuario\\source\\repos\\registromercy_developers\\registromercy_developers\\registromercy_developers.csproj": {
+    "C:\\Users\\usuario\\Desktop\\Web App\\registromercy_developers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\usuario\\source\\repos\\registromercy_developers\\registromercy_developers\\registromercy_developers.csproj",
+        "projectUniqueName": "C:\\Users\\usuario\\Desktop\\Web App\\registromercy_developers.csproj",
         "projectName": "registromercy_developers",
-        "projectPath": "C:\\Users\\usuario\\source\\repos\\registromercy_developers\\registromercy_developers\\registromercy_developers.csproj",
+        "projectPath": "C:\\Users\\usuario\\Desktop\\Web App\\registromercy_developers.csproj",
         "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\usuario\\source\\repos\\registromercy_developers\\registromercy_developers\\obj\\",
+        "outputPath": "C:\\Users\\usuario\\Desktop\\Web App\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",

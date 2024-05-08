@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ed6NIL6EXgR+5nmX1wjoMIeygI8ZpFGnHVeoX7GOImGilk5feGddMbXJypcWIC4OAOy2MOHhxidRX+iD3Y6gYQ==",
+  "dgSpecHash": "dxz8uL7Cjo9Q/PZ0W8ZTGvDcFps5d58d4fGs9qbIw/j81lzDe2rqEUhCqTmlzr/4lREquqwRBuNSO+yaDx4P6g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\usuario\\source\\repos\\registromercy_developers\\registromercy_developers\\registromercy_developers.csproj",
+  "projectFilePath": "C:\\Users\\usuario\\Desktop\\Web App\\registromercy_developers.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\usuario\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\usuario\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
